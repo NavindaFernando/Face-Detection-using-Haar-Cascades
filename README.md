@@ -2,8 +2,7 @@
 Face-Detection :green_apple:
 </h3>
 
-![obj_dete_AdobeExpress](https://user-images.githubusercontent.com/86073690/235374028-08346922-4125-4812-b0f0-38071764061c.gif)
-
+![Screenshot (1176)](https://user-images.githubusercontent.com/86073690/235375764-dad369d5-6226-4220-9ad6-d042eca042e7.png)
 
 ***
 
